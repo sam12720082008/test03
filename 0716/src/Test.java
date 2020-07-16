@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("1111");
 		System.out.println("dev");
 		System.out.println("合并分支");
+		System.out.println("分支2的代码");
 	}
 
 }
